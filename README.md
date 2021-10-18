@@ -15,7 +15,7 @@ npm install
 
 Neoplayer             |  Discord Rich Presence
 :-------------------------:|:-------------------------:
-![Neoplayer](screenshots/neoplayer1.png)  |  ![Discord Rich Presence](screenshots/discord1.png)
+![Neoplayer](screenshots/neoplayer.xcf)  |  ![Discord Rich Presence](screenshots/discord1.png)
 
 ## Usage
 
