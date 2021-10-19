@@ -28,6 +28,6 @@ npm install
 node neoplayer.js
 ```
 
-# For Arch bash
+# For Arch based
 
-coming soon
+Coming soon
