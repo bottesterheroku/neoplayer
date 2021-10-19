@@ -11,7 +11,7 @@ Then install the libraries with:
 npm install
 ```
 
-For detailed installation please click [here]()
+For detailed installation please click [here](Install.md)
 
 ## Screenshots
 
